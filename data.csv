@@ -1,0 +1,13 @@
+﻿CLB,Đội hình,Sân bãi,Phong độ,Loại cúp,Kết quả
+M.U,A,Nhà,Cao,C1,Yes
+M.U,A,Nhà,Thấp,FA,Yes
+M.U,B,Khách,Thấp,C1,No
+M.U,C,Nhà,Thấp,FA,No
+M.U,B,Nhà,Thấp,C1,Yes
+M.U,C,Khách,Cao,C1,Yes
+M.U,B,Nhà,Cao,C1,Yes
+M.U,B,Nhà,Cao,C1,Yes
+M.U,B,Nhà,Thấp,FA,Yes
+M.U,C,Khách,Thấp,C1,No
+M.U,B,Khách,Cao,FA,Yes
+M.U,A,Khách,Thấp,FA,No
